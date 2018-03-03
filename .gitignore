@@ -3,3 +3,9 @@ AlphaBeta.depend
 bin/
 obj/
 AlphaBeta.layout
+AlphaBeta
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+CMakeCache.txt
