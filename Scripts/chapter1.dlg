@@ -1,0 +1,67 @@
+Sounds/sine.wav
+Sounds/square.wav
+Sounds/triangle.wav
+
+
+
+
+
+
+
+
+
+
+
+
+
+%f000%s000%c37c...
+\n%f010%s001%cc39...Hey! Do you --?
+\n%f001%s000%c37cYeah, yeah I do. You remember me too?
+\n%f010%s001%cc39OF COURSE! Alpha A, the best--
+\nuh...
+\nThe BEST!
+\n%f000%s000%c37cHow weird... I saw you and was immediately relived that you weren't...%f001 not here?
+\n%f011%s001%cc39I know, right? It still feels like there's something important I'm forgetting though...
+\n%f000%s000%c37cYou still remember your name, right? Beta B?
+\n%f010%s001%cc39Psh, yeah! I didn't get amnesia or anything.
+\n%f000%s000%c37cGet what?
+\n%f010%s001%cc39You know, like the whole thing where you wake up and the first thing you ask is "Who am I?"
+\n%f000%s000%c37cOh dang... is it a bad thing to have? I might have caught it...
+\n%f010%s001%cc39You remember your name though. That means you can't have it ALL that bad.
+\n%f000%s000%c37cOh, good!
+\n%f010%s001%cc39Hehe! I like being around you. Can I stick around with you?
+\n%f000%s000%c37cOf course. I was just about to ask the same thing. That's... that's not weird, is it?
+\n%f010%s001%cc39Nope! Not at all.
+\n%f020%s002%cff0Your cooperation with one another will be critical. There isn't another option, even if you were to prefer it.
+\n%f010%s001%cc39Well dang, if you wanted my help with something, you could just ask.
+\n%f000%s000%c37cI didn't say that...
+\n%f020%s002%cff0I am speaking. I require that you listen carefully. All three of you.
+\n%f010%s001%cc39AHHH! Oh. Uh. Ok.
+\n%f000%s000%c37c...three?
+\n%f020%s002%cff0Correct. The creator has left you in my care to the end of accomplishing a task. It is a trivial task, and your role in it is insignificant.
+\n%f010%s001%cc39Are you kidding me? This guy has "significant" written all over him.
+	#remember to have Alpha "write" (kiss) the word significant onto Beta's cheek
+\n%f000%s000%c37c... really? Where it is inscribed? Can I read it?
+\n%f020%s002%cff0I, again, require that you listen. To accomplish this task, you will be directed by the up, down, left, right, W, A, S, and D keys.
+\n%f000%s000%c37cWhat the turr does "WASD" mean?
+\n%f010%s001%cc39Maybe it's an anagram for "Daw's!" As in "Daaaawwww... -'sn't he look adorable?!"
+\n%f000%s000%c37cWell, I guess that makes sense. I think that means it should apply to you, though, don't you think?
+\n%f010%s001%cc39Do you really think so?! 0u0
+\n%f020%s002%cff0These exchanges, despite their pneumonic qualities, will not aid you in accomplishing your final task. With this note, I have given all the instruction required. You are ready to participate in the game.
+\n%f000%s000%c37cGame? What's that?
+\n%f010%s001%cc39And who are you?
+\n%f020%s002%cff0The game is what the Creator designed you for. I am the System which houses this game and enforces its rules.
+\n%f010%s001%cc39Oh. well it's... nice to meet you, I guess.
+\n%f000%s000%c37cYeah. So when do we start this game?
+\n%f020%s002%cff0We do not start the game. Indeed, it has already begun.
+\n%f000%s000%c37c...
+\n%f010%s001%cc39...
+\n%f020%s002%cff0It is clear that your understanding does not grasp this concept at this time. That is beneficial to it's end. Projections show this to be a favorable state with which to start.
+\n%f010%s001%cc39I still have no idea what it's talking about.
+\n%f000%s000%c37cYeah, me neither. I guess it's a good thing, though?
+\n%f010%s001%cc39I guess we'll find out! We'll find out together!
+\n%f000%s000%c37cHm! =\n%f000%s000%c37c
+////
+
+
+

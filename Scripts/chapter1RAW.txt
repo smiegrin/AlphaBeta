@@ -1,0 +1,63 @@
+Sounds/sine.wav
+Sounds/square.wav
+Sounds/triangle.wav
+
+
+
+
+
+
+
+
+
+
+
+
+
+]...
+>...Hey! Do you --?
+]Yeah, yeah I do. You remember me too?
+>OF COURSE! Alpha A, the best-- uh... The BEST!
+]How weird... I saw you and was immediately relived that you weren't... not here?
+>I know, right? It still feels like there's something important I'm forgetting though...
+]You still remember your name, right? Beta B?
+>Psh, yeah! I didn't get amnesia or anything.
+]Get what?
+>You know, like the whole thing where you wake up and the first thing you ask is "Who am I?"
+]Oh dang... is it a bad thing to have? I might have caught it...
+>You remember your name though. That means you can't have it ALL that bad.
+]Oh, good!
+>Hehe! I like being around you. Can I stick around with you?
+]Of course. I was just about to ask the same thing. That's... that's not weird, is it?
+>Nope! Not at all.
+$Your cooperation with one another will be critical. There isn't another option, even if you were to prefer it.
+>Well dang, if you wanted my help with something, you could just ask.
+]I didn't say that...
+$I am speaking. I require that you listen carefully. All three of you.
+>AHHH! Oh. Uh. Ok.
+]...three?
+$Correct. The creator has left you in my care to the end of accomplishing a task. It is a trivial task, and your role in it is insignificant.
+>Are you kidding me? This guy has "significant" written all over him.
+	#remember to have Alpha "write" (kiss) the word significant onto Beta's cheek
+]... really? Where it is inscribed? Can I read it?
+$I, again, require that you listen. To accomplish this task, you will be directed by the up, down, left, right, W, A, S, and D keys.
+]What the turr does "WASD" mean?
+>Maybe it's an anagram for "Daw's!" As in "Daaaawwww... -'sn't he look adorable?!"
+]Well, I guess that makes sense. I think that means it should apply to you, though, don't you think?
+>Do you really think so?! 0u0
+$These exchanges, despite their pneumonic qualities, will not aid you in accomplishing your final task. With this note, I have given all the instruction required. You are ready to participate in the game.
+]Game? What's that?
+>And who are you?
+$The game is what the Creator designed you for. I am the System which houses this game and enforces its rules.
+>Oh. well it's... nice to meet you, I guess.
+]Yeah. So when do we start this game?
+$We do not start the game. Indeed, it has already begun.
+]...
+>...
+$It is clear that your understanding does not grasp this concept at this time. That is beneficial to it's end. Projections show this to be a favorable state with which to start.
+>I still have no idea what it's talking about.
+]Yeah, me neither. I guess it's a good thing, though?
+>I guess we'll find out! We'll find out together!
+]Hm! =]
+////
+

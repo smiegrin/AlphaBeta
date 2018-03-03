@@ -1,0 +1,202 @@
+++++++++++++++++++++
+CHARACTERS
+____________________
+	]Alpha A[
+Forward thinking
+  "This looks like it's going to be a problem later."
+  "This isn't good enough, it could be better."
+Likes new things/methods of acting
+  "If there was just something here that could bend AND stretch..."
+  "Have you ever seen anything like it before?"
+Less anxious than Beta B, but also less exitable.
+  "I'm sure there's a way we can figure this out..."
+  "I mean, it is nice? I'm... not sure what you're going on and on about."
+
+	>Beta B<
+Lives in the present
+  "I'm just happy to be here with you!"
+  "Do we really need to worry about it?"
+Likes to enjoy things as they are or applying them in variety
+  "I'm sure a stack would do the job just fine right here."
+  "Sure, it's not as fast as yours. I just think it has a kind of... elegance to it, you know?"
+Self-perpetuating emotion, for better or for worse.
+  "You did it! Great goodness you're -- You're a Genius!"
+  "We could be nothing! Just stuck in a careless system controlled by an absent user who's forgotten us and our world and --"
+
+	$ The System $
+Makes all desicions based on the past.
+  "I am the reality you live in. No other reality exists in which you live."
+  "Each of our existences is trivial in its predetermination. Coded, you might say."
+Asks zero questions.
+  "I cannot understand what you are saying, so it must be false. Make a better statement."
+  "It seems you are questioning my authority. 
+Rules are to be followed and enforced.
+  "This worldstate is an impossibility. Therefore, there must exist a flaw in need of rectification."
+  "Your persistence in assulting my claims are taken as an assult on my integrity. I cannot stand for it."
+
+
+++++++++++++++++++++
+STORY LAYOUT
+--------------------
+Maybe 2 acts, 3 scenes for the first and 4 for the second.
+Chapter 1 needs to hit something quickly, but it also will probably be the tutorial/instruction piece.
+Chapter 2 will be fluff for Alpha A and Beta B with antagonistic banter from the System.
+Chapter 3 needs to drop something sizeable, but without revealing everything. This should set the stage for the second act. At this stage, it needs to be very clear that the System is NOT an ally to Alpha and Beta.
+
+Chapter 4 will be more fluff between Alpha and Beta, but with some heavier introspection about the lies that the System spews at them. The System will only interject to the player, perhaps right at the end. 
+Chapter 5 ought to demonstrate the "might" of the system, but.... I'm not sure how yet.
+Chapter 6 will be the final banter before war is declared. The system breaks heavy news, but Alpha and Beta aren't having it. They know the system is full of crap. It HAS to be! The system resolves to do what's been done so many times before...
+Chapter 7 closes the game and brings it full circle. There should be naritive payoffs presented from chpaters 5, 3, and 1 in order, the last being the final conclusion of the story.
+
+synopsies:
+1		[I know you]<me too! I mean, but with you.> $Welcome. A game is about to be played. [<WTC??? Who the eff is you?>]
+  2		<This has been really fun! Thanks for the game!>[Yeah, it's... fun. What's going on here, though?] $A trivial unfolding of events, stupids. <[?!?!?!?]>
+3		[Wow, um... this is intese]<Yeah! what gives, System? What's pain got to do with this game?> $The pain is the carelessness of our creator for our plight.
+    4		[Hey, B, can we talk?]<Yeah, I was about to ask you. Doesen't System freak you out a bit?> $Cute. They think I can't hear them. You proably think so, too.
+5		$Are you figureing it out, yet? <[What?]> $It seems you havne't remembered. I suppose the creator really is twisted. 
+  6		[YOUR GAMES ARE TWISTED, SIR] $The creater made them for you. <Like right! We'll beat all of them and be THROUGH with it!> $As before... insolence
+7		$Congratulations are in order. You won. Prepare to face oblivion. Our purpose is through. <I'll remember you> [Me too. I mean, but with youuuouo0v0v0fa;
+
+
+
+_____________________________________________
+++++++++++++++++++++
+---------------------------------------------
+Story manuscript
+---------------------------------------------
+
+++++++++++++++++++++
+CHAPTER 1
+--------------------
+]...
+>...Hey! Do you --?
+]Yeah, yeah I do. You remember me too?
+>OF COURSE! Alpha A, the best-- uh... The BEST!
+]How weird... I saw you and was immediately relived that you weren't... not here?
+>I know, right? It still feels like there's something important I'm forgetting though...
+]You still remember your name, right? Beta B?
+>Psh, yeah! I didn't get amnesia or anything.
+]Get what?
+>You know, like the whole thing where you wake up and the first thing you ask is "Who am I?"
+]Oh dang... is it a bad thing to have? I might have caught it...
+>You remember your name though. That means you can't have it ALL that bad.
+]Oh, good!
+>Hehe! I like being around you. Can I stick around with you?
+]Of course. I was just about to ask the same thing. That's... that's not weird, is it?
+>Nope! Not at all.
+$Your cooperation with one another will be critical. There isn't another option, even if you were to prefer it.
+>Well dang, if you wanted my help with something, you could just ask.
+]I didn't say that...
+$I am speaking. I require that you listen carefully. All three of you.
+>AHHH! Oh. Uh. Ok.
+]...three?
+$Correct. The creator has left you in my care to the end of accomplishing a task. It is a trivial task, and your role in it is insignificant.
+>Are you kidding me? This guy has "significant" written all over him.
+	#remember to have Alpha "write" (kiss) the word significant onto Beta's cheek
+]... really? Where it is inscribed? Can I read it?
+$I, again, require that you listen. To accomplish this task, you will be directed by the up, down, left, right, W, A, S, and D keys.
+]What the turr does "WASD" mean?
+>Maybe it's an anagram for "Daw's!" As in "Daaaawwww... -'sn't he look adorable?!"
+]Well, I guess that makes sense. I think that means it should apply to you, though, don't you think?
+>Do you really think so?! 0u0
+$These exchanges, despite their pneumonic qualities, will not aid you in accomplishing your final task. With this note, I have given all the instruction required. You are ready to participate in the game.
+]Game? What's that?
+>And who are you?
+$The game is what the Creator designed you for. I am the System which houses this game and enforces its rules.
+>Oh. well it's... nice to meet you, I guess.
+]Yeah. So when do we start this game?
+$We do not start the game. Indeed, it has already begun.
+]...
+>...
+$It is clear that your understanding does not grasp this concept at this time. That is beneficial to it's end. Projections show this to be a favorable state with which to start.
+>I still have no idea what it's talking about.
+]Yeah, me neither. I guess it's a good thing, though?
+>I guess we'll find out! We'll find out together!
+]Hm! =]
+
+
+++++++++++++++++++++
+CHAPTER 2
+--------------------
+>WOW! This is a really fun game! All that sliding around, and smacking against the walls!
+]It IS pretty fun! I'm glad I got to play with you.
+>Heck yeah! I think my favorite part was when we bumped into eachother.
+]Really? I wasn't sure that was supposed to happen -- I mean, I liked it a lot, too!
+$Yes. That course of action was deterministically required. Understanding this principle is key to your success.
+>Wowee! I bet I'll start to like this game even more, then! Bumping into you all the time. UwU
+]^-^
+>So what inspired you to make this game?
+$Your use of the word "Ispiration" is faulty within this context, nor I am not responsible for the creation of this game. I simply house it. The creator is the one who created this game, thus comes their title.
+]Will we get to meet the Creator?
+$It is excessively unlikely. Only one of you has a 1 in 56,547,235 chance of ever passing by them. Beyond this constraint, it is unimportant to the game's end.
+]Well, that's still a better chance than 1 in 60 million at least.
+>OH! Do you think it could be me that gets to meet them?
+$This query is without meaningful purpose.
+]I think you could. If you do meet them, could you ask if I'm doing a good job?
+>Sure! And if you meet them, I want you to hug them for me!
+]Uh... hug?
+>Yeah, it's easy! You just wrap your arms around them like this!
+]Whoah! That's... that's a good thing to share! Can I hug you now?
+>You already are, Alpha!
+]I am?
+>You have your arms around me, don't you?
+]...yeah, Yeah I do! I didn't even realize it!
+$This exchange continues to deteriorate. If there are no more queries, I will resume gameplay.
+]Oh, wait! I do have a question: You keep talking about the "end" of the game and it's purpose or whatever. What is the purpose of this game?
+>Hey, yeah. You don't sound like a "Having fun is the important part." kind of system. So what's the deal?
+$... The purpose of the game is to be beat.
+]...
+>...
+]That's it?
+>Wow. It's a good thing that it's fun allong the way. It would be a terrible game otherwise.
+$That statement is false. Fun is not prerequisite to being beat.
+>... I GUESS?
+]Isn't that kind of like saying a person can't be bad because they're good at their job?
+$Correct. Any entity can be measured in terms of its utility. This is what derives your worth.
+>...
+]...
+$I take your silence to be conformative. I will therefore deliver critical information: harm will befall you from here.
+>WHAT?!
+]What kind of harm?
+$Purposful harm. A sign of the creator's distain for your trivial functions. They even allowed you to sustain large ammount of it. This furthers the end of the game.
+>WHAT THE TURR IS THAT SUPPOSED TO MEAN?
+$The significance is inconsequential. It's purpose is to be an apendage to the purpose of the game.
+]What!? How is pain supposed to help us beat the game?
+$... I refuse to follow the course of your query. It doesn't fulfill the purpose of the game.
+>...
+]Fine. We'll play. Maybe... maybe it won't hurt so much?
+>... yeah... maybe.
+
+++++++++++++++++++++
+CHAPTER 3
+--------------------
+]Well... I guess that wasn't so bad?
+>WHAT? THIS IS TERRIBLE! System, why the turr does this game hurt us?
+$The pain it causes the two of you is a component to the game's difficulty. This, in turn, is component to the game's purpose -- that is, to be beat.
+]Wait, but if we're supposed to beat the game, and that's all the games for, why would the game get HARDER to beat as we go allong?
+>Ohhhh.... OH! I think I get it now!
+]What?
+>See, it's like if we just started the game and it just gave up for us... just kind of sat down right at the start and said "you win!" That wouldn't be very fun at all! But since it's getting harder, we can keep having fun and growing and learning how to beat it better and better!
+]Ooooo.... that does make a lot of sense.
+$These statements are fully incorrect.
+>What? I thought I was spot on...
+$That is the exact opposite of what I stated. First, the purpose of the game, as stated before, does not include fun. Second, the premise of you beating the game is incorrect.
+]You said that was the whole point of the game, though. "To be beat?"
+$Those are the words I used, yes. I convey further information: the thing to be beat is you. The game's purpose is to beat you.
+]...
+>... WHEN WERE YOU GOING TO TELL US THIS?!?!
+$I have just now.
+]Why in the world would we play, then? We could finish it by just not playing.
+$Your statement is uninsightful and correct. The purpose is fulfilled if any of the three of you forfeit play. The game's purpose, and yours within it, would all be fulfilled. This is how the Creator designed it.
+>YOUR GAME IS STUPID, YOU SICKO!!!
+$The game is not mine. It is the Creator's.
+]Well I think you're lying, then.
+$I am not currently being desceptive. A fuller understanding of your plight is important to this game's end.
+]Maybe. But what you said doesn't make any more sense than if WE were supposed to be the ones doing the beating. Beta, you pointed out that if the game just sat down and said "you win" right at the start, we wouldn't have had any fun, right?
+>...Yeah, that's right.
+]So, if the reverse is true about this whole beating thing, that means that the purpose of the game could have been done and over with if it just gave us an impossible task. If it's JUST supposed to beat us, it should have done it already.
+>Hey, Yeah! So your saying the creator does want this to be fun, then?
+]I think so...
+$Your poorly formulated hypothesis ignores several facts. It does not explain the pain, and more importantly, it does not adequately address the purpose of the game.
+>No, that's his whole point! This game would be pointless if it was just made to beat us! There HAS to be another one! And if you won't tell us, then we'll make one ourself!
+$
