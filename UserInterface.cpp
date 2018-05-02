@@ -6,7 +6,7 @@ int main() {
 	KeyClicks keyInfo(10); //10 stand for ten possible keys to map
 	MainMenu mainMenu;
 
-	sf::RenderWindow window(sf::VideoMode(640,640), "Alpha Beta");
+	sf::RenderWindow window(sf::VideoMode(640,640), "Alpha Beta", sf::Style::Close | sf::Style::Titlebar);
 	window.setFramerateLimit(60);
 
 	while (window.isOpen()) {
